@@ -33,3 +33,21 @@
 - BaseEntry - source document DocEntry
 - BaseLine - source document row
 - BaseType - source document object type
+
+## Common SAP Business One Tables Overview
+
+| Module | Table | Description |
+|------|------|------|
+| Sales | ORDR | Sales Order Header |
+| Sales | RDR1 | Sales Order Rows |
+| Sales | OINV | A/R Invoice Header |
+| Sales | INV1 | A/R Invoice Rows |
+| Purchasing | OPOR | Purchase Order Header |
+| Purchasing | POR1 | Purchase Order Rows |
+| Purchasing | OPDN | Goods Receipt PO Header |
+| Purchasing | PDN1 | Goods Receipt PO Rows |
+| Finance | OJDT | Journal Entry Header |
+| Finance | JDT1 | Journal Entry Rows |
+| Master Data | OCRD | Business Partner |
+| Inventory | OITM | Item Master |
+| Inventory | OITW | Item by Warehouse |

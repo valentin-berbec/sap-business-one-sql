@@ -17,6 +17,15 @@ The purpose is to demonstrate how ERP data can be analysed to support business d
 SAP Business One (SQL Server version)  
 SQL Server Management Studio (SSMS)
 
+## Skills demonstrated
+
+• SAP Business One database structure understanding  
+• SQL Server querying for ERP reporting  
+• Document flow analysis (Sales Order → Delivery → Invoice)  
+• Financial reporting queries (A/R ageing, customer analysis)  
+• Master data validation (inactive customers, data quality checks)  
+• Query Manager and SAP alert logic
+
 ## Author
 
 Valentin Berbec  
