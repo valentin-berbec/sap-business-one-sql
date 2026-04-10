@@ -47,4 +47,4 @@ SQL Server Management Studio (SSMS)
 ## Author
 
 Valentin Berbec  
-ERP Systems Analyst – SAP Business One
+ERP Systems Analyst - SAP Business One
