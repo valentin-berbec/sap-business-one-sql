@@ -4,7 +4,7 @@ This repository contains SQL queries and reporting examples for SAP Business One
 
 The purpose is to demonstrate how ERP data can be analysed to support business decisions in areas such as sales, inventory, and finance.
 
-The queries are based on real ERP reporting scenarios including margin monitoring, inventory analysis, purchasing reports, and financial data extraction.
+The queries are based on real ERP reporting scenarios including margin monitoring, inventory analysis, purchasing reporting, and financial data extraction.
 
 ## Topics covered
 
@@ -13,7 +13,7 @@ The queries are based on real ERP reporting scenarios including margin monitorin
 - Inventory analysis
 - Financial reporting
 - SAP Business One alerts and monitoring queries
-- SAP Business One table structure
+- SAP Business One table structure and document flow
 
 ## Repository Structure
 
@@ -33,7 +33,7 @@ The queries are based on real ERP reporting scenarios including margin monitorin
 - **Sales/**  
   Queries demonstrating sales document flows and revenue analysis.
 
-- **Master_Data/**  
+- **Master Data/**  
   Examples of working with business partner and item master data.
 
 - **Documentation/**  
