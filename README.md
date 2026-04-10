@@ -6,6 +6,13 @@ The purpose is to demonstrate how ERP data can be analysed to support business d
 
 ## Topics covered
 
+- Sales reporting
+- Purchasing analysis
+- Inventory analysis
+- Financial reporting
+- SAP Business One alerts and monitoring queries
+- SAP Business One table structure
+
 ## Repository Structure
 
 - **Alerts/**  
