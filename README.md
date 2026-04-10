@@ -49,4 +49,4 @@ SQL Server Management Studio (SSMS)
 Valentin Berbec  
 IT Systems Analyst | SAP Business One | SQL | ERP Reporting  
 
-LinkedIn: https://www.linkedin.com/in/valentin-berbec
+LinkedIn: https://www.linkedin.com/in/valentinberbec
